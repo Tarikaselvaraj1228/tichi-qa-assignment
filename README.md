@@ -1,12 +1,19 @@
 # Tichi QA Testing Assignment
 
-## Candidate
-Madhu Mitha
+## Candidate Information
+
+**Name:** Tarika S
+
+**Role:** QA Intern Candidate
+
+---
 
 ## Project
+
 QA Internship Technical Assignment
 
 ## Application
+
 Tichi Web Application (Stage)
 
 ## Testing Scope
@@ -19,32 +26,39 @@ Tichi Web Application (Stage)
 ## Deliverables
 
 - Test Case Report
-- Bug Report
+- Defect Report
 - Supporting Screenshots
 
 ## Testing Type
 
 Manual Testing
 
-## Environment
+## Test Environment
 
-- Windows 11
-- Google Chrome (Latest)
+- Operating System: Windows 11
+- Browser: Google Chrome (Latest)
+- Application: Tichi Web Application (Stage)
 
-## Summary
+## Assignment Summary
 
-This repository contains the QA internship assignment completed for the Tichi Web Application.
+This repository contains the QA internship technical assignment completed for the Tichi Web Application.
 
-The application was manually tested to validate the Login, Signup, Forgot Password, and Email Verification functionalities.
+The application was manually tested by preparing comprehensive test cases, executing functional testing, and documenting the identified defects. The testing focused on validating the Login, Signup, Forgot Password, and Email Verification modules.
 
-### Key Findings
+### Key Defects Identified
 
-- Invalid email validation issues
-- Password validation issues
-- Email verification issues
-- Resend verification button issue
-- Signup validation defects
+- Invalid email validation
+- Password length validation issues
+- Signup validation issues
+- Email verification link expiry issue
+- Resend verification functionality issue
 
-Automation testing was optional as per the assignment requirements and was not attempted.
+## Repository Contents
 
-Thank you.
+- 📄 Test Case Report
+- 📄 Defect Report
+- 📷 Supporting Screenshots
+
+> **Note:** Automation testing was optional as per the assignment guidelines and was not attempted.
+
+Thank you for reviewing my submission.
